@@ -6,15 +6,15 @@ HTML, CSS, JavaScript, PHP, Painel de Controle de Código do Site!
 
 ### Projeto Design HOME ☕️
 
-![image](https://raw.githubusercontent.com/brbruno-santana-githubu/Starbucks/main/design/1.png)
-![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/2.png)
-![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/3.png)
+![image](https://github.com/bruno-santana-github/WebsitepainelControl/blob/master/images/banner1.png)
+![image](https://github.com/bruno-santana-github/WebsitepainelControl/blob/master/images/banner2.png)
+
 
 ### Projeto Design Login  🚙
-![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/4.png)
+![image](https://github.com/bruno-santana-github/WebsitepainelControl/blob/master/images/banner3.png)
 
 ### Projeto Design Painel de Controle ✅
-![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/5.png)
+![image](https://github.com/bruno-santana-github/WebsitepainelControl/blob/master/images/banner4.png)
 
 
 ### `Definindo Diretório`
